@@ -1,0 +1,11 @@
+MCU (STM32F407G)
+   - USB Interface
+   - SDIO Interface
+   - UART Interface
+   - Low power mode options
+   - Low overall power consumption
+
+Wireless Coprocessor (WL1807MOD)
+   - 2.4ghz wireless
+   - 100MBit/s
+   - Bluetooth (Maybe)
